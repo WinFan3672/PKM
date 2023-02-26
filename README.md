@@ -10,7 +10,7 @@ PKM is a package manager for one of my other projects: [Pythinux](https://github
 ## Adding mirror to PKM
 In pythinux's console, type the following command:
 ```
-echo command coming soon :)
+pkm db add https://github.com/WinFan3672/PKM/raw/main/repo.pkm
 ```
 
 And it will be added.
