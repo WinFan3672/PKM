@@ -16,7 +16,7 @@ pkm db add https://github.com/WinFan3672/PKM/raw/main/repo.pkm
 And it will be added.
 As a bonus, type:
 ```
-pkm db remove https://winfan3672.000webhostapp.com/pkm/beta.pkm
+pkm db remove https://winfan3672.000webhostapp.com/pkm/official.pkm
 ```
 And this one will be used exclusively for PKM's needs.
 To finalise changes, type: ```pkm db save```. It will save your changes so that they persist after the OS shuts down.
